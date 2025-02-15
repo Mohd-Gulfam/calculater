@@ -1,2 +1,2 @@
 # calculater
-Basiccalculater project using html css and javascrip project.
+Basic calculater project using html css and javascrip project.
